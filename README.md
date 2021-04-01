@@ -6,7 +6,8 @@
 
 ML: sklearn, pandas, numpy
 API: flask
-Данные: с kaggle - https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+
+#### Данные: с kaggle - https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
 #### Задача: предсказать предрасположен ли человек к сердечному приступу или нет. Бинарная классификация.
 
