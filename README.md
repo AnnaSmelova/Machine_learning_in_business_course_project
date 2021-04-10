@@ -36,7 +36,7 @@ $ docker build -t flask_app:v0.1 flask_app/
 
 Предобученная модель лежит в Machine_learning_in_business_course_project/prepare_and_check_model/models/
 ```
-$ docker run -d -p 8180:8180 -p 8181:8181 -v <your_local_path_to_pretrained_models>:/app/app/models flask_app:v0
+$ docker run -d -p 8180:8180 -p 8181:8181 -v <your_local_path_to_pretrained_models>:/app/app/models flask_app:v0.1
 ```
 
 #### Переходим на localhost:8181
